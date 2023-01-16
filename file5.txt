@@ -1,1 +1,2 @@
+newline
 this is file5s.txt craeted in newfeature branch
